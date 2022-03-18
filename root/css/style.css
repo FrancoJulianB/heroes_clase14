@@ -110,7 +110,7 @@ button.mas {
     position:fixed;
     font-size: 3rem;
     border-radius: 50%;
-    width: 55px;
+    width: 57px;
     background-color:#00669F;
     border:none;
     right: 2rem;
@@ -131,6 +131,7 @@ footer div{
     color:#FFF9F9;
     font-size: 2rem;
 }
+/*Celulares*/
 @media (min-width: 480px){
     section article{
         width: 70%;
@@ -138,8 +139,8 @@ footer div{
     article#harley {
         display: none;
     }
-
 }
+/*Tablets*/
 @media(min-width: 730px){
     section article{
         width: 35%;
@@ -148,9 +149,9 @@ footer div{
         display:flex;
     }
 }
+/*Computadoras*/
 @media(min-width: 1080px){
     section article{
         width: 21%;
     }
-    
 }
