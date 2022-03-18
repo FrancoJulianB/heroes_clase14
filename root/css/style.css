@@ -132,7 +132,7 @@ footer div{
     font-size: 2rem;
 }
 /*Celulares*/
-@media (min-width: 480px){
+@media (min-width: 0px) and (max-width:730px) {
     section article{
         width: 70%;
     }
