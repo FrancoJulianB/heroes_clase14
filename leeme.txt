@@ -1,0 +1,2 @@
+Este repositorio cuenta con dos branch. En main encontraras la pagina web diseñada con flexbox, mientras que en "sin_flexbox" solo se utiliza box sizing.
+
