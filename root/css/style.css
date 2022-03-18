@@ -135,20 +135,22 @@ footer div{
     section article{
         width: 70%;
     }
-    article #harley {
-        display:none;
+    article#harley {
+        display: none;
     }
+
 }
 @media(min-width: 730px){
     section article{
         width: 35%;
     }
+    article#harley {
+        display:flex;
+    }
 }
-@media(min-width: 1200px){
-    section.articulos{
-        min-height: 84.6vh;
-    }
+@media(min-width: 1080px){
     section article{
-        width: 20%;
+        width: 21%;
     }
+    
 }
